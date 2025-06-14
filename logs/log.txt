@@ -1,0 +1,8 @@
+2025-06-14 05:33:45.976907 - Agregó tarea: DESAYUNAR
+2025-06-14 05:34:04.258470 - Agregó tarea: ALISTAR MALETA
+2025-06-14 05:34:08.587483 - Consultó las tareas
+2025-06-14 10:49:43.969382 - Agregó tarea: HACER ASEO
+2025-06-14 10:49:53.526113 - Consultó las tareas
+2025-06-14 10:50:13.095270 - Consultó las tareas
+2025-06-14 10:54:17.040237 - Agregó tarea: LAVAR LA LOZA
+2025-06-14 06:03:04.155669 - Probando log
